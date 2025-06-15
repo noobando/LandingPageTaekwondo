@@ -9493,7 +9493,7 @@ var Pf = Xi.exports,
         description:
           "An exciting program designed specifically for children aged 4-7. Focuses on developing basic motor skills, discipline, and confidence through fun activities.",
         image:
-          "https://images.pexels.com/photos/8612284/pexels-photo-8612284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://images.pexels.com/photos/8612284/pexels-photo-8612284.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         suitable: "Ages 4-7",
       },
       {
@@ -9501,7 +9501,7 @@ var Pf = Xi.exports,
         description:
           "Perfect for children 8-12 years old. Develops strong foundations in Taekwondo techniques while teaching respect, focus, and self-discipline.",
         image:
-          "https://images.pexels.com/photos/7045671/pexels-photo-7045671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://images.pexels.com/photos/7045671/pexels-photo-7045671.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         suitable: "Ages 8-12",
       },
       {
@@ -9509,7 +9509,7 @@ var Pf = Xi.exports,
         description:
           "Designed for teenagers to develop advanced techniques, physical fitness, mental resilience, and leadership skills in a supportive environment.",
         image:
-          "https://images.pexels.com/photos/6253298/pexels-photo-6253298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://images.pexels.com/photos/6253298/pexels-photo-6253298.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         suitable: "Ages 13-17",
       },
       {
@@ -9517,7 +9517,7 @@ var Pf = Xi.exports,
         description:
           "Comprehensive training for adults of all fitness levels. Focus on self-defense, physical conditioning, stress reduction, and personal achievement.",
         image:
-          "https://images.pexels.com/photos/7045623/pexels-photo-7045623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://images.pexels.com/photos/7045623/pexels-photo-7045623.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         suitable: "Ages 18+",
       },
     ];
@@ -9577,7 +9577,7 @@ var Pf = Xi.exports,
             s.jsx("div", {
               className: "lg:w-1/2",
               children: s.jsx("img", {
-                src: "https://images.pexels.com/photos/7045391/pexels-photo-7045391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                src: "https://images.pexels.com/photos/7045391/pexels-photo-7045391.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 alt: "Mestre Riba ensinando",
                 className: "rounded-lg shadow-xl w-full h-[500px] object-cover",
               }),
@@ -9733,7 +9733,7 @@ var Pf = Xi.exports,
           name: "Sarah Johnson",
           role: "Parent of Junior Student",
           image:
-            "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/3763188/pexels-photo-3763188.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           quote:
             "Since my son started training with Master Kim, we've seen incredible improvements not just in his physical abilities, but also in his confidence and focus at school. The positive impact extends far beyond the dojang.",
         },
@@ -9741,7 +9741,7 @@ var Pf = Xi.exports,
           name: "David Chen",
           role: "Adult Student, 2 Years",
           image:
-            "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/2379004/pexels-photo-2379004.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           quote:
             "As a busy professional, Taekwondo has become my sanctuary. Master Kim's teaching style makes every class both challenging and rewarding. I'm in the best shape of my life and have made great friends along the way.",
         },
@@ -9749,7 +9749,7 @@ var Pf = Xi.exports,
           name: "Emma Rodriguez",
           role: "Teen Student, Black Belt",
           image:
-            "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/774909/pexels-photo-774909.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           quote:
             "I started when I was 10 years old and now at 17, Taekwondo has shaped who I am. Master Kim has been an incredible mentor, teaching me discipline and perseverance that has helped me succeed in all areas of my life.",
         },
@@ -10138,49 +10138,49 @@ var Pf = Xi.exports,
     const e = [
         {
           id: 1,
-          src: "https://images.pexels.com/photos/7045406/pexels-photo-7045406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/7045406/pexels-photo-7045406.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Taekwondo class training",
           category: "training",
         },
         {
           id: 2,
-          src: "https://images.pexels.com/photos/6253298/pexels-photo-6253298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/6253298/pexels-photo-6253298.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Taekwondo kick demonstration",
           category: "technique",
         },
         {
           id: 3,
-          src: "https://images.pexels.com/photos/7045396/pexels-photo-7045396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/7045396/pexels-photo-7045396.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Students practicing forms",
           category: "training",
         },
         {
           id: 4,
-          src: "https://images.pexels.com/photos/7045493/pexels-photo-7045493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/7045493/pexels-photo-7045493.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Belt promotion ceremony",
           category: "event",
         },
         {
           id: 5,
-          src: "https://images.pexels.com/photos/8612288/pexels-photo-8612288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/8612288/pexels-photo-8612288.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Children's class",
           category: "training",
         },
         {
           id: 6,
-          src: "https://images.pexels.com/photos/8612909/pexels-photo-8612909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/8612909/pexels-photo-8612909.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Breaking boards demonstration",
           category: "technique",
         },
         {
           id: 7,
-          src: "https://images.pexels.com/photos/8612894/pexels-photo-8612894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/8612894/pexels-photo-8612894.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Competition sparring",
           category: "event",
         },
         {
           id: 8,
-          src: "https://images.pexels.com/photos/7045623/pexels-photo-7045623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          src: "https://images.pexels.com/photos/7045623/pexels-photo-7045623.webp?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           alt: "Adult advanced class",
           category: "training",
         },
