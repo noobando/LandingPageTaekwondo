@@ -9324,8 +9324,8 @@ var Mf = tu.exports,
                   "Classes",
                   "Sobre",
                   "Schedule",
-                  "Gallery",
-                  "Contact",
+                  "Galeria",
+                  "contato",
                 ].map((l) =>
                   u.jsx(
                     "a",
@@ -9410,7 +9410,7 @@ var Mf = tu.exports,
                 className: "flex flex-col sm:flex-row gap-4 justify-center",
                 children: [
                   u.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-8 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300 transform hover:scale-105",
                     children: "Aula Experimental Grátis",
@@ -9480,7 +9480,7 @@ var Mf = tu.exports,
               children: t,
             }),
             u.jsx("a", {
-              href: "#contact",
+              href: "#contato",
               className:
                 "text-red-700 font-medium hover:text-red-500 transition duration-300",
               children: "Saiba Mais →",
@@ -9722,7 +9722,7 @@ var Mf = tu.exports,
           u.jsx("div", {
             className: "mt-16 text-center",
             children: u.jsx("a", {
-              href: "#contact",
+              href: "#contato",
               className:
                 "px-8 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300 transform hover:scale-105",
               children: "Inicie sua jornada hoje",
@@ -10127,10 +10127,10 @@ var Mf = tu.exports,
                       "Want to join our classes or have questions Sobre the schedule?",
                   }),
                   u.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-6 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300",
-                    children: "Contact Us",
+                    children: "contato Us",
                   }),
                 ],
               }),
@@ -10202,7 +10202,7 @@ var Mf = tu.exports,
         o(null), (document.body.style.overflow = "auto");
       };
     return u.jsxs("section", {
-      id: "gallery",
+      id: "Galeria",
       className: "py-20 bg-gray-50",
       children: [
         u.jsxs("div", {
@@ -10214,7 +10214,7 @@ var Mf = tu.exports,
                 u.jsx("h2", {
                   className:
                     "text-3xl md:text-4xl font-bold text-gray-900 mb-4",
-                  children: "Photo Gallery",
+                  children: "Photo Galeria",
                 }),
                 u.jsx("p", {
                   className: "text-xl text-gray-600 max-w-2xl mx-auto",
@@ -10346,7 +10346,7 @@ var Mf = tu.exports,
                 className: "flex flex-col sm:flex-row justify-center gap-4",
                 children: [
                   u.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-8 py-3 bg-white text-red-700 font-semibold rounded-md hover:bg-gray-100 transition duration-300",
                     children: "Agende uma Aula Experimental Gratuita",
@@ -10400,7 +10400,7 @@ var Mf = tu.exports,
         window.open(`https://wa.me/${s}?text=${a}`, "_blank");
       };
     return u.jsx("section", {
-      id: "contact",
+      id: "contato",
       className: "py-20",
       children: u.jsxs("div", {
         className: "container mx-auto px-4",
@@ -10749,8 +10749,8 @@ var Mf = tu.exports,
                           "Classes",
                           "Sobre",
                           "Schedule",
-                          "Gallery",
-                          "Contact",
+                          "Galeria",
+                          "contato",
                         ].map((t) =>
                           u.jsx(
                             "li",
@@ -10803,7 +10803,7 @@ var Mf = tu.exports,
                     children: [
                       u.jsx("h4", {
                         className: "text-lg font-semibold mb-4",
-                        children: "Contact Us",
+                        children: "contato Us",
                       }),
                       u.jsxs("address", {
                         className: "text-gray-400 not-italic",

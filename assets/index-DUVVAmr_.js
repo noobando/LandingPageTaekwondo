@@ -9283,8 +9283,8 @@ var Rf = ra.exports,
                   "Classes",
                   "Sobre",
                   "Schedule",
-                  "Gallery",
-                  "Contact",
+                  "Galeria",
+                  "contato",
                 ].map((l) =>
                   u.jsx(
                     "a",
@@ -9369,7 +9369,7 @@ var Rf = ra.exports,
                 className: "flex flex-col sm:flex-row gap-4 justify-center",
                 children: [
                   u.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-8 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300 transform hover:scale-105",
                     children: "Aula Experimental Grátis",
@@ -9446,7 +9446,7 @@ var Rf = ra.exports,
               children: t,
             }),
             u.jsx("a", {
-              href: "#contact",
+              href: "#contato",
               className:
                 "text-red-700 font-medium hover:text-red-500 transition duration-300",
               children: "Saiba Mais →",
@@ -9684,7 +9684,7 @@ var Rf = ra.exports,
           u.jsx("div", {
             className: "mt-16 text-center",
             children: u.jsx("a", {
-              href: "#contact",
+              href: "#contato",
               className:
                 "px-8 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300 transform hover:scale-105",
               children: "Inicie sua jornada hoje",
@@ -10088,7 +10088,7 @@ var Rf = ra.exports,
                       "Quer se juntar às nossas aulas ou tem perguntas sobre o horário?",
                   }),
                   u.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-6 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300",
                     children: "Fale Conosco!",
@@ -10178,7 +10178,7 @@ var Rf = ra.exports,
         o(null), (document.body.style.overflow = "auto");
       };
     return u.jsxs("section", {
-      id: "gallery",
+      id: "Galeria",
       className: "py-20 bg-gray-50",
       children: [
         u.jsxs("div", {
@@ -10334,7 +10334,7 @@ var Rf = ra.exports,
                 className: "flex flex-col sm:flex-row justify-center gap-4",
                 children: [
                   u.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-8 py-3 bg-white text-red-700 font-semibold rounded-md hover:bg-gray-100 transition duration-300",
                     children: "Agende uma Aula Experimental Gratuita",
@@ -10388,7 +10388,7 @@ var Rf = ra.exports,
         window.open(`https://wa.me/${s}?text=${a}`, "_blank");
       };
     return u.jsx("section", {
-      id: "contact",
+      id: "contato",
       className: "py-20",
       children: u.jsxs("div", {
         className: "container mx-auto px-4",

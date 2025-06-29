@@ -9354,8 +9354,8 @@ var Pf = Xi.exports,
                   "Classes",
                   "Sobre",
                   "Schedule",
-                  "Gallery",
-                  "Contact",
+                  "Galeria",
+                  "contato",
                 ].map((a) =>
                   s.jsx(
                     "a",
@@ -9409,7 +9409,7 @@ var Pf = Xi.exports,
               className: "flex flex-col sm:flex-row gap-4 justify-center",
               children: [
                 s.jsx("a", {
-                  href: "#contact",
+                  href: "#contato",
                   className:
                     "px-8 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300 transform hover:scale-105",
                   children: "Aula Experimental Grátis",
@@ -9477,7 +9477,7 @@ var Pf = Xi.exports,
               children: n,
             }),
             s.jsx("a", {
-              href: "#contact",
+              href: "#contato",
               className:
                 "text-red-700 font-medium hover:text-red-500 transition duration-300",
               children: "Saiba Mais →",
@@ -9717,7 +9717,7 @@ var Pf = Xi.exports,
           s.jsx("div", {
             className: "mt-16 text-center",
             children: s.jsx("a", {
-              href: "#contact",
+              href: "#contato",
               className:
                 "px-8 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300 transform hover:scale-105",
               children: "Start Your Journey Today",
@@ -10121,10 +10121,10 @@ var Pf = Xi.exports,
                       "Want to join our classes or have questions Sobre the schedule?",
                   }),
                   s.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-6 py-3 bg-red-700 text-white font-semibold rounded-md hover:bg-red-600 transition duration-300",
-                    children: "Contact Us",
+                    children: "contato Us",
                   }),
                 ],
               }),
@@ -10196,7 +10196,7 @@ var Pf = Xi.exports,
         l(null), (document.body.style.overflow = "auto");
       };
     return s.jsxs("section", {
-      id: "gallery",
+      id: "Galeria",
       className: "py-20 bg-gray-50",
       children: [
         s.jsxs("div", {
@@ -10208,7 +10208,7 @@ var Pf = Xi.exports,
                 s.jsx("h2", {
                   className:
                     "text-3xl md:text-4xl font-bold text-gray-900 mb-4",
-                  children: "Photo Gallery",
+                  children: "Photo Galeria",
                 }),
                 s.jsx("p", {
                   className: "text-xl text-gray-600 max-w-2xl mx-auto",
@@ -10340,7 +10340,7 @@ var Pf = Xi.exports,
                 className: "flex flex-col sm:flex-row justify-center gap-4",
                 children: [
                   s.jsx("a", {
-                    href: "#contact",
+                    href: "#contato",
                     className:
                       "px-8 py-3 bg-white text-red-700 font-semibold rounded-md hover:bg-gray-100 transition duration-300",
                     children: "Book a Free Trial Class",
@@ -10394,7 +10394,7 @@ var Pf = Xi.exports,
         window.open(`https://wa.me/${i}?text=${u}`, "_blank");
       };
     return s.jsx("section", {
-      id: "contact",
+      id: "contato",
       className: "py-20",
       children: s.jsxs("div", {
         className: "container mx-auto px-4",
@@ -10743,8 +10743,8 @@ var Pf = Xi.exports,
                           "Classes",
                           "Sobre",
                           "Schedule",
-                          "Gallery",
-                          "Contact",
+                          "Galeria",
+                          "contato",
                         ].map((n) =>
                           s.jsx(
                             "li",
@@ -10797,7 +10797,7 @@ var Pf = Xi.exports,
                     children: [
                       s.jsx("h4", {
                         className: "text-lg font-semibold mb-4",
-                        children: "Contact Us",
+                        children: "contato Us",
                       }),
                       s.jsxs("address", {
                         className: "text-gray-400 not-italic",
